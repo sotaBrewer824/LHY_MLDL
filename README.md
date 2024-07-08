@@ -13,10 +13,10 @@ Course Website : (https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.html)
 |-|-|-|-|-|-|
 |1|Regression|2023|0.80653|0.83223|9
 |2|Classification|2023|0.83168| 0.83236|10 
-|3|CNN|2023|0.83094|0.82546|10
-|4|Self-Attention|2023|0.96857|0.96888|10.5
-|5|Transformer|2023|33.53|32.27|10.5
-|6|GAN|2022, 2023|NA|NA|10
+|3|CNN|2023|0.88600|0.89333|10
+|4|Self-Attention|2023|0.94875|0.95075|10
+|5|Transformer|2023|20.995|20.995|8
+|6|GAN, Diffusion|2022, 2023|NA|NA|10
 |7|BERT|2022, 2023|0.8|0.85157|10.5
 |8|Anomaly Detection|2023|0.90118|0.89286|10.5
 |9|Explainable AI|2021,2022,2023|NA|NA|9.7
