@@ -1,6 +1,6 @@
 # Machine Learning 2022-2023
 
-Machine Learning (NTU EE 5184, Spring 2021-23)
+Machine Learning (NTU EE 5184, Spring 2022-23)
 
 Instructor: Hung-yi Lee
 
@@ -19,7 +19,7 @@ Course Website : (https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.html)
 |6|GAN, Diffusion|2022, 2023|NA|NA|10
 |7|BERT|2022|0.83461|0.82485|9.5
 |8|Anomaly Detection|2023|0.79269|0.79153|9
-|9|Explainable AI|2021,2022,2023|NA|NA|10
+|9|Explainable AI|2022,2023|NA|NA|10
 |10|Attack|2023|NA|NA|10
 |11|Adaptation|2022|0.80948|0.81084|10
 |12|RL|2023|NA|NA|10
