@@ -30,7 +30,7 @@ Course Website : (https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.html)
 Total Score: 145.5 / 150
 
 P.S：
-I referred to other people's codes, blogs, and ChatGPT during the completion of my assignment. I would like to express my gratitude here. And it is worth noticing that ince there's not any TA or instructor during the self-learning period,  I myself gave full marks to all my reports, so my results are fair to a certain extent. Of course, I completed this course out of my interest in the field of machine learning and my admiration for Professor Hung Yi Lee. I need to express my gratitude to Professor Lee. Moreover, the open source code has been approved by Professor Lee. And I am really looking forward to getting a T-shirt like this:
+I referred to other people's codes, blogs, and ChatGPT during the completion of my assignment. I would like to express my gratitude here. And it is worth noticing that since there's not any TA or instructor during the self-learning period,  I myself gave full marks to all my reports, so my scores are just for fun. Of course, I completed this course out of my interest in the field of machine learning and my admiration for Professor Hung Yi Lee. Thanks a lot, Professor Lee! Moreover, the open source code has been approved by Professor Lee. And I am really looking forward to getting a T-shirt like this:
 <p align="center">
 <img src="t-shirt.png" alt="shirt">
 </p>
